@@ -1,0 +1,158 @@
+﻿  game.cpp
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(11): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(16): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(21): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(26): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(80): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(81): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(190): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(210): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(262): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(286): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(287): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(307): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(414): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(430): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(526): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(650): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(137): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(138): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(147): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(148): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(157): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(158): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(167): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(168): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(177): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(178): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(187): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(188): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(197): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(198): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(207): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(208): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(217): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(218): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(227): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(228): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(237): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(238): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(244): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(245): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(253): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(254): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(379): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(380): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(392): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(393): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(406): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(407): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(455): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(456): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(469): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(470): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(480): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(481): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(491): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(492): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(505): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(506): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(600): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(601): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(613): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(614): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(627): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(628): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(675): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(676): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(689): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(690): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(700): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(701): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(711): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(712): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(725): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(726): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\packages\sfml-system.2.4.2.0\build\native\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(806): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(810): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(770): warning C4715: 'Game::checkcard': not all control paths return a value
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(798): warning C4715: 'Game::checkifking': not all control paths return a value
+c:\users\wojte\desktop\studia\pk3\projekt\graprojekt\graprojekt\game.cpp(784): warning C4715: 'Game::checkcolorofcard': not all control paths return a value
+  GraProjekt.vcxproj -> C:\Users\wojte\Desktop\Studia\PK3\Projekt\GraProjekt\Debug\GraProjekt.exe
+  GraProjekt.vcxproj -> C:\Users\wojte\Desktop\Studia\PK3\Projekt\GraProjekt\Debug\GraProjekt.pdb (Full PDB)
